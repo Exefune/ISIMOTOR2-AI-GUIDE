@@ -3,6 +3,7 @@ ISIMOTOR AI GUIDE 🗒️
 *A Complete Guide to ajust the Artificial Intelligence (AI) in racing simulators based on the ISIMOTOR2 engine.*
 ---
 **A guide I created with everything I learned over three years of forum research and game testing.**
+
 *DOC*
 
 This document was created with the objective of centralizing and explaining all the variables that affect the behavior of AI in titles such as:
